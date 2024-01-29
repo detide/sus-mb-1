@@ -5,7 +5,7 @@ Micro:bit can be used to test for conductivity of materials by using�
 This feature allows for exploring and learning about different material properties and enables projects involving conductivity and electrical circuits.
 
 **In this project**
-![keychain gif](https://makecode.microbit.org/beta#tutorial:github:detide/microbitws-sus/tutorial-1-recyclable)
+![keychain gif](https://lh3.googleusercontent.com/d/1aoS7YX-7oN9nVCi20yWthcVIIwzh2nh_)
 * Detect if the material is metal or non-metal 
     - Use Pin 0 and GND 
 * Reflect the result on LED screen
@@ -24,8 +24,7 @@ The micro:bit continuously checks the status of pin 0. When an object
 Icon is paused on LED screen for 1 second before it is cleared. Then, the code repeats from the beginning.
 
 ![flowchart](
-http://drive.google.com/uc?export=view&id=1tObQk1Hw443tgNLsTidDDOzOp0zT6Ioo
-)
+https://lh3.googleusercontent.com/d/1tObQk1Hw443tgNLsTidDDOzOp0zT6Ioo)
 
 ## Part 1
 Place the ``||logic:if-then-else||`` block to the ``||basic:forever||`` block.
